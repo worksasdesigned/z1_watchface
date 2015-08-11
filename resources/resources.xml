@@ -1,0 +1,25 @@
+<resources>
+    <string id="AppName">Z1_blue</string>
+
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+<bitmaps>
+		<bitmap id="id_kcal" filename="images/kcal.png"/>
+		 <palette>
+	       <color>FFFFFF</color>
+		<color>AAAAAA</color>
+		<color>555555</color>		
+    	 </palette>
+</bitmaps> 
+<bitmaps>
+		<bitmap id="id_steps" filename="images/steps.png"/>
+		 <palette>
+	       <color>FFFFFF</color>
+    	 </palette>
+</bitmaps> 
+<bitmaps>
+		<bitmap id="id_way" filename="images/way.png"/>
+		 <palette>
+	       <color>FFFFFF</color>		      
+    	 </palette>
+</bitmaps> 
+</resources>
